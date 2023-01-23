@@ -1,3 +1,13 @@
 {
-  "python.analysis.typeCheckingMode": "basic"
+  "python.analysis.typeCheckingMode": "basic",
+  "cSpell.words": [
+    "ciclos",
+    "elevado",
+    "impar",
+    "Ingresa",
+    "inicial",
+    "número",
+    "potencia"
+  ],
+  "cSpell.language": "en,lorem,en-US,es,es-ES"
 }

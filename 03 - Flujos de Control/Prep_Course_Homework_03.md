@@ -26,6 +26,6 @@
 
 13) Aplicando continue, armar un ciclo while que solo imprima los valores divisibles por 12, dentro del rango de números de 100 a 300
 
-14) Utilizar la función **input()** que permite hacer ingresos por teclado, para encontrar números primos y dar la opción al usario de buscar el siguiente
+14) Utilizar la función **input()** que permite hacer ingresos por teclado, para encontrar números primos y dar la opción al usuario de buscar el siguiente
 
 15) Crear un ciclo while que encuentre dentro del rango de 100 a 300 el primer número divisible por 3 y además múltiplo de 6

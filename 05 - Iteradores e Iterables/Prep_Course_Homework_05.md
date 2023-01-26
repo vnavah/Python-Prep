@@ -8,7 +8,7 @@
 
 4) Utilizar el iterable para recorrer sólo los primeros 3 elementos
 
-5) Utilizar la función **enumerate** para obtener dentro del iterable, tambien el índice al que corresponde el elemento
+5) Utilizar la función **enumerate** para obtener dentro del iterable, también el índice al que corresponde el elemento
 
 6) Dada la siguiente lista de números enteros entre 1 y 20, crear un ciclo donde se completen los valores faltantes: lista = [1,2,5,7,8,10,13,14,15,17,20]
 
